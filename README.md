@@ -28,24 +28,33 @@ Creating & Configuring Images for DC & VM:  <br/>
 <img src="https://github.com/smcozart/ActiveDirectoryLab/assets/148355955/1a9e83c1-446f-4807-9c8e-09d852a6df5e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Utilizing Server Manager for Domain Managment, DNS, AD DS, etc...: <br/>
+Utilizing Server Manager to Install Active Direcotry and Deploy Domain : <br/>
 <img src="https://github.com/smcozart/ActiveDirectoryLab/assets/148355955/fc9ffc8a-5e67-42de-8332-a5a9f5ab4129" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Created Organizational Units for Admins and Users:  <br/>
+<img src="https://github.com/smcozart/ActiveDirectoryLab/assets/148355955/becd1d90-b2bf-415c-af07-e17cb5adaabc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Automated Provisioning of User Accounts:  <br/>
 <img src="https://github.com/smcozart/ActiveDirectoryLab/assets/148355955/69cb9ded-bd55-4095-a433-bee744ecede6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Utilizing PowerShell Script & API to Log Failed Attempts and Geolocation:  <br/>
-<img src="https://github.com/smcozart/MicrosoftAzureLab/assets/148355955/053f15ff-f9e9-4a9a-a039-217476036efd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Linking Client1 to DC:  <br/>
+<img src="https://github.com/smcozart/ActiveDirectoryLab/assets/148355955/899295c8-5164-4e55-a5e4-8b868f2d6925" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Custom Log Set to Extract Data from PowerShell Script:  <br/>
-<img src="https://github.com/smcozart/MicrosoftAzureLab/assets/148355955/0e00bea7-48ca-4905-8eb2-004512b43098" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Showing Leased Address from DHCP on DC:  <br/>
+<img src="https://github.com/smcozart/ActiveDirectoryLab/assets/148355955/fa07701d-0a89-4fef-93ea-9bb13d16fd52" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/smcozart/ActiveDirectoryLab/assets/148355955/c34e8856-f942-40cb-aa6b-b6f3aed7a153" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Azure Sentinel Workbook Creation Linking Custom Log - Final Results:  <br/>
-<img src="https://github.com/smcozart/MicrosoftAzureLab/assets/148355955/f14f5607-d264-4c83-8ad6-3654b2847709" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Testing Newly Provisioned User Account on Client1:  <br/>
+<img src="https://github.com/smcozart/ActiveDirectoryLab/assets/148355955/44fe9a7c-830f-4689-896f-b1948248c694" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Successful Login: <br/>
+<img src="https://github.com/smcozart/ActiveDirectoryLab/assets/148355955/19010f35-d252-4fa1-9c6b-ae9b88240e20" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
